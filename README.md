@@ -2,7 +2,7 @@
 
 Orginal Image : 
 
-!(https://github.com/harish-2306/Face-recognition/blob/master/Input.jpeg)
+![](https://github.com/harish-2306/Face-recognition/blob/master/Input.jpeg)
 
 Predicted Image:
 
