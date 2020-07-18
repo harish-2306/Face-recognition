@@ -1,5 +1,14 @@
 # Face-recognition
 
+Orginal Image : 
+
+![alt text](http://url/to/img.png)
+
+Predicted Image:
+
+![alt text](http://url/to/img.png)
+
+
 Pipleline : 
 
 1. The face is first extracted from the Image. (find_face.py)
