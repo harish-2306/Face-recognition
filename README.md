@@ -6,7 +6,7 @@ Orginal Image :
 
 Predicted Image:
 
-![alt text](http://url/to/img.png)
+![](https://github.com/harish-2306/Face-recognition/blob/master/output.png)
 
 
 Pipleline : 
